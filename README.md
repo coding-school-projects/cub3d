@@ -13,9 +13,9 @@
   <img alt="time spent" src="https://img.shields.io/badge/time%20spent-120%20hours-blue" />
   <img alt="XP earned" src="https://img.shields.io/badge/XP%20earned-2016-orange" />
 <p align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/senthilpoo10/cub3d?color=lightblue" />
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/senthilpoo10/cub3d?color=blue" />
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/senthilpoo10/cub3d?color=green" />
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/coding-school-projects/cub3d?color=lightblue" />
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/coding-school-projects/cub3d?color=blue" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/coding-school-projects/cub3d?color=green" />
 </p>
 
 ## 📚 About The Project
