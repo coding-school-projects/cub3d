@@ -18,6 +18,9 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/coding-school-projects/cub3d?color=green" />
 </p>
 
+
+NOTE: after cloning, cub3d_solution folder has libft and minilibx-linux foleders. So Include the libft and minilibx-linux folders.
+
 ## 📚 About The Project
 
 cub3D is a 42 School project that recreates a Wolfenstein 3D-style raycasting engine using C and the miniLibX library. This project explores fundamental 3D rendering techniques while implementing game mechanics like texture mapping, player movement, and collision detection.
